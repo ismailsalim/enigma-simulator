@@ -1,5 +1,7 @@
 # Enigma Simulator
 
+<img src="images/diagram.png" height="400">
+
 ## Background
 The key components of an Enigma machine are:
 - a set of input switches (1)
